@@ -1,6 +1,7 @@
 # Route Planning Project
 
 This repo contains the starter code for the Route Planning project.
+
 Project TODOs are in file: src/route_planner.cpp.
 
 <img src="map.png" width="600" height="450" />
